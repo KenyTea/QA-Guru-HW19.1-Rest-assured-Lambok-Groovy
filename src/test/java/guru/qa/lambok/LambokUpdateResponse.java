@@ -1,4 +1,4 @@
-package guru.qa.Lambok;
+package guru.qa.lambok;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;

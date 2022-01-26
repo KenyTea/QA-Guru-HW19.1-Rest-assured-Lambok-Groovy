@@ -1,6 +1,6 @@
 package guru.qa;
 
-import guru.qa.Lambok.*;
+import guru.qa.lambok.*;
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;

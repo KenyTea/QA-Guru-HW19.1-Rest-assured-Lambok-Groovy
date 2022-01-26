@@ -1,4 +1,4 @@
-package guru.qa.Lambok;
+package guru.qa.lambok;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
